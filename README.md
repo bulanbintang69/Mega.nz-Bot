@@ -36,7 +36,10 @@ Check out [config.sample file](https://github.com/Itz-fork/Mega.nz-Bot/blob/main
 > Notice ⚠️:
 > Please refer the [Deployment](https://github.com/Itz-fork/X-Bin-Patch#deployment) guide inorder to deploy this bot Heroku. THIS REPO ISN'T FUCKING COMPATIBLE WITH HEROKU!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Itz-fork/X-Bin-Patch#deployment)
+#### Deploy on Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bulanbintang69/BNime2)</br>
+
+
 
 
 ### With VPS/PC
